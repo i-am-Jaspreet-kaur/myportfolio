@@ -274,6 +274,12 @@ img {
   display: inline-flex;
 }
 
+.footerdiv p{
+  padding-top: 20px;
+  font-size: small;
+  font-weight: lighter;
+}
+
 .work-title {
   text-align: center;
   padding: 40px 0 80px;
