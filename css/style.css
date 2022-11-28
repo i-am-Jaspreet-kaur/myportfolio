@@ -1102,4 +1102,16 @@ html {
   }
 }
 
+@media (max-width: 480px) {
+  .logo img {
+    max-width: 100%;
+  }
+}
+
+@media (max-width: 766px) {
+  .logo img {
+    max-width: 100%;
+  }
+}
+
 /* responsive end */
