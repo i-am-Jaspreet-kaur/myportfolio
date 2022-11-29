@@ -1018,6 +1018,14 @@ html {
   .container.fullsreenimg.florensui {
     padding: 25px 0;
   }
+  .container.fullsreenimg.florensui img {
+    width: 388.79px;
+    height: 275.89px;
+  }
+  .container.fullsreenimg img {
+    width: 390px;
+    height: 168.73px;
+  }
   .florensui img:nth-child(2) {
     margin: 25px 0;
   }
