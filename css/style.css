@@ -1156,6 +1156,14 @@ html {
     width: 317px;
     height: 309px;
   }
+  .tireone img {
+    width: 332px;
+    height: 431px;
+  }
+  .tiretwo img {
+    width: 170px;
+    height: 431px;
+  }
 }
 
 @media (max-width: 480px) {
