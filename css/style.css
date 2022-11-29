@@ -273,8 +273,7 @@ img {
   font-size: 40px;
   display: inline-flex;
 }
-
-.footerdiv p{
+.footerdiv p {
   padding-top: 20px;
   font-size: small;
   font-weight: lighter;
@@ -745,9 +744,6 @@ html {
   .work-images .imagesWrap {
     gap: 50px;
   }
-  .work-images .imagesWrap img {
-    width: 340px;
-  }
   .mockups-sec .colwrap {
     gap: 30px;
     flex-direction: column;
@@ -970,10 +966,6 @@ html {
   .uikitsec .container.fullsreenimg {
     padding: 0 30px;
   }
-  .container.fullsreenimg.florensui img {
-    width: 388.79px;
-    height: 275.89px;
-  }
   .pro-overview {
     padding: 55px 0 0;
   }
@@ -1014,6 +1006,10 @@ html {
   .container.fullsreenimg.florensui {
     padding: 25px 0;
   }
+  .container.fullsreenimg.florensui img {
+    width: 388.79px;
+    height: 275.89px;
+  }
   .florensui img:nth-child(2) {
     margin: 25px 0;
   }
@@ -1053,6 +1049,10 @@ html {
   }
   .container.clgImages {
     padding: 0 30px;
+  }
+  .container.clgImages img {
+    width: 555px;
+    height: 1089px;
   }
   .clghomeImages {
     grid-template-columns: auto;
@@ -1112,13 +1112,21 @@ html {
     width: 130.92px;
     height: 381.5px;
   }
-  .container.fullsreenimg.florensui img {
-    width: 388.79px;
-    height: 275.89px;
-  }
   .container.fullsreenimg img {
-    width: 390px;
-    height: 168.73px;
+    width: 480px;
+    height: 268.73px;
+  }
+  .tenantimg img {
+    width: 450px;
+    height: 200px;
+  }
+  .container.tenantsui img {
+    width: 450px; 
+    height: 200px;
+  }
+  .container.fullsreenimg.tiresui img {
+    width: 480px;
+    height: 290px;
   }
 }
 
