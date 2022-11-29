@@ -1104,13 +1104,15 @@ html {
 
 @media (max-width: 480px) {
   .logo img {
-    max-width: 100%;
+    max-width: 70px;
+    max-height: 70px;
   }
 }
 
 @media (max-width: 766px) {
   .logo img {
-    max-width: 100%;
+    max-width: 70px;
+    max-height: 70px;
   }
 }
 
