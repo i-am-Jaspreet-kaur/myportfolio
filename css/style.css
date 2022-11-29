@@ -974,6 +974,10 @@ html {
   .uikitsec .container.fullsreenimg {
     padding: 0 30px;
   }
+  .container.fullsreenimg.florensui img {
+    width: 388.79px;
+    height: 275.89px;
+  }
   .pro-overview {
     padding: 55px 0 0;
   }
