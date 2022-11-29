@@ -748,6 +748,18 @@ html {
   .work-images .imagesWrap img {
     width: 340px;
   }
+  .intro-imgs img {
+    width: 130.92px;
+    height: 381.5px;
+  }
+  .last-images img {
+    width: 90.26px;
+    height: 263px;
+  }
+  .last-images1 img {
+    width: 90.26px;
+    height: 206.59px;
+  }
   .mockups-sec .colwrap {
     gap: 30px;
     flex-direction: column;
