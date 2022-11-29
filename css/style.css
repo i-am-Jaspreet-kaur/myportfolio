@@ -748,10 +748,6 @@ html {
   .work-images .imagesWrap img {
     width: 340px;
   }
-  .intro-imgs img {
-    width: 130.92px;
-    height: 381.5px;
-  }
   .mockups-sec .colwrap {
     gap: 30px;
     flex-direction: column;
@@ -1018,14 +1014,6 @@ html {
   .container.fullsreenimg.florensui {
     padding: 25px 0;
   }
-  .container.fullsreenimg.florensui img {
-    width: 388.79px;
-    height: 275.89px;
-  }
-  .container.fullsreenimg img {
-    width: 390px;
-    height: 168.73px;
-  }
   .florensui img:nth-child(2) {
     margin: 25px 0;
   }
@@ -1115,6 +1103,22 @@ html {
     bottom: 16px;
     right: 10px;
     font-size: 24px;
+  }
+  .work-images .imagesWrap img {
+    width: 308px;
+    height: 192px;
+  }
+  .intro-imgs img {
+    width: 130.92px;
+    height: 381.5px;
+  }
+  .container.fullsreenimg.florensui img {
+    width: 388.79px;
+    height: 275.89px;
+  }
+  .container.fullsreenimg img {
+    width: 390px;
+    height: 168.73px;
   }
 }
 
