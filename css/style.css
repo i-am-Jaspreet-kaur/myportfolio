@@ -1128,6 +1128,34 @@ html {
     width: 480px;
     height: 290px;
   }
+  .container.clgImages img {
+    width: 156px;
+    height: 307px;
+  }
+  .container.clghomeImages img {
+    width: 324px;
+    height: 454px;
+  }
+  .one img {
+    width: 324px;
+    height: 242px;
+  }
+  .two img {
+    width: 272px;
+    height: 503px;
+  }
+  .three img {
+    width: 317px;
+    height: 330px;
+  }
+  .four img {
+    width: 317px;
+    height: 244px;
+  }
+  .five img {
+    width: 317px;
+    height: 309px;
+  }
 }
 
 @media (max-width: 480px) {
